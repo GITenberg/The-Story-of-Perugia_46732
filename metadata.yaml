@@ -1,0 +1,35 @@
+_repo: The-Story-of-Perugia_46732
+contributor:
+  illustrator:
+    agent_name: James, Helen M.
+    alias: James, H. M.
+    gutenberg_agent_id: '43710'
+    url: http://www.gutenberg.org/2009/agents/43710
+creator:
+  authors:
+  - agent_name: Symonds, Margaret
+    birthdate: 1869
+    deathdate: 1925
+    gutenberg_agent_id: '43924'
+    url: http://www.gutenberg.org/2009/agents/43924
+  - agent_name: Gordon, Lina Duff
+    aliases:
+    - Waterfield, Lina Duff-Gordon
+    - Waterfield, Mrs. Aubrey
+    - Duff-Gordon, Lina
+    - Duff-Gordon, Caroline Lucie
+    birthdate: 1874
+    gutenberg_agent_id: '39529'
+    url: http://www.gutenberg.org/2009/agents/39529
+description: ''
+gutenberg_bookshelf: Mediæval Town Series
+gutenberg_issued: '2014-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Story of Perugia
+url: http://www.gutenberg.org/ebooks/46732
