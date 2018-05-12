@@ -1,10 +1,14 @@
 _repo: The-Story-of-Perugia_46732
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: James, Helen M.
     alias: James, H. M.
     gutenberg_agent_id: '43710'
     url: http://www.gutenberg.org/2009/agents/43710
+covers:
+- cover_type: archival
+  image_path: 46732-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Symonds, Margaret
@@ -22,6 +26,8 @@ creator:
     gutenberg_agent_id: '39529'
     url: http://www.gutenberg.org/2009/agents/39529
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46732#The-Story-of-Perugia
 gutenberg_bookshelf: Mediæval Town Series
 gutenberg_issued: '2014-08-30'
 gutenberg_type: Text
